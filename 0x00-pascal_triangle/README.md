@@ -1,5 +1,4 @@
 # PASCAL'S TRIANGLE
----------------------------------
 In this series, i attempt to create a function that returns a list of lists representing
 the Pascal's Triangle of `n`.
 The function:
